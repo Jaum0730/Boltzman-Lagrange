@@ -1,6 +1,6 @@
 # `<Boltzman Lagrange>`
 
-* Link do jogo:
+* Link do jogo: https://github.com/Jaum0730/Boltzman-Lagrange.git
 
 ## Motivação
 

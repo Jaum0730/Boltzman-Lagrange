@@ -4,11 +4,11 @@
 
 ## Motivação
 
-UM JOGO SIMPLES PORÉM DESAAFIADOR PARA JOGAR NO BROWSER
+UM DOS MOTIVOS PARA A CRIAÇÃO É MELHORAR UM PROJETO DO INICIO DA MINHA GRADUAÇÃO O TRANSFORMANDO EM ALGO MAIS ACESSÍVEL 
 
 ## Objetivo
 
-UM DOS MOTIVOS PARA A CRIAÇÃO É MELHORAR UM PROJETO DO INICIO DA MINHA GRADUAÇÃO O TRANSFORMANDO EM ALGO MAIS ACESSÍVEL 
+UM JOGO SIMPLES PORÉM DESAAFIADOR PARA JOGAR NO BROWSER
 
 ## Valor Agregado
 
@@ -18,9 +18,9 @@ DIFERENTE DE SEU PREDECESSOR AGORA ESSA NOVA VERSÃO SE ENCONTRA DISPONIVEL NO G
 
 DESCREVA AS FASES DO JOGO.
 
-| Fases |                 Descrição                      |
-| ----- | ---------------------------------------------- |
-| 1     | O jogo possui apenas uma única fase            |
+| Fases |                                                 Descrição                                              |
+| ----- | ------------------------------------------------------------------------------------------------------ |
+| 1     | O jogo possui apenas uma única fase que só termina quando o boss morre ou a nave é destruida           |
 
 ## Esquema de Pontuação
 

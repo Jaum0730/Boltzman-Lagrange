@@ -18,8 +18,8 @@ DIFERENTE DE SEU PREDECESSOR AGORA ESSA NOVA VERSÃO SE ENCONTRA DISPONIVEL NO G
 
 DESCREVA AS FASES DO JOGO.
 
-| Fases | Descrição |
-| ----- | ----------- |
+| Fases |                 Descrição                      |
+| ----- | ---------------------------------------------- |
 | 1     | O jogo possui apenas uma única fase            |
 
 ## Esquema de Pontuação

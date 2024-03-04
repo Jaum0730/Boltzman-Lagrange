@@ -20,26 +20,24 @@ DESCREVA AS FASES DO JOGO.
 
 | Fases | Descrição |
 | ----- | ----------- |
-| 1     |             |
-| 2     |             |
-| 3     |             |
-| 4     |             |
+| 1     | O jogo possui apenas uma única fase            |
 
 ## Esquema de Pontuação
 
-QUAL É O ESQUEMA DE PONTUAÇÃO.
+Os pontos são ganhos ao destruir inimigos e asteroids.
 
 
 ## Requisitos
 
 ### Épicos/Funcionalidades
 
-1. DESCREVA AS FUNCIONALIDADES
-2. 
+1. Selecionar o tipo de nave
+2. digitar o nome do jogador
+3. esconder e exibir o rank dos melhores jogadores
 
 ### Personas
 
-1. **QUEM SÃO OS PERSONAGENS DO JOGO**
+1. ****
 
 ## Protótipos de Tela
 

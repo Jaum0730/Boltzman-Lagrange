@@ -26,6 +26,12 @@ DESCREVA AS FASES DO JOGO.
 
 Os pontos são ganhos ao destruir inimigos e asteroids.
 
+| Inimigo       |   Pontos  |
+| ------------- | --------- |
+| Alien         |   5 pts   |
+| Alien Chefe   |   100 pts |
+| Asteroi       |   2 pts   |
+
 
 ## Requisitos
 
